@@ -2,7 +2,7 @@
 List<Laptop> Laptops = new List<Laptop>();
 
 
-
+//
 
 foreach (Laptop laptop in Laptops)
 {
